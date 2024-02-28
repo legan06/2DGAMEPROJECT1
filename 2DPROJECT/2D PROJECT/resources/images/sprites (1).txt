@@ -1,0 +1,6 @@
+Gun_01_Brown,0,0,212,94
+BrownTank,0,233,244,114
+BlueTank,0,118,246,114
+Light_Shell,247,95,128,128
+Wall,0,95,32,22
+Gun_04_Blue,247,0,191,94
